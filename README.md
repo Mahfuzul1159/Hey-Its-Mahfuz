@@ -15,10 +15,12 @@
 
 ## Project Overview
 
-This repository contains the source code for **"Hey — It’s Mahfuz"**, the personal portfolio website of SK Rafi (Mahfuzul Islam).  
-The site showcases personal information, skills, projects, services, and contact details — designed to present a professional, developer-focused portfolio.
+This repository hosts the source code for **“Hey — It’s-Mahfuz”**, my personal portfolio website**.  
 
-**Purpose:** Share my work, make it easy for potential employers/clients to review my skills, and provide clear contact/CTA options.
+The portfolio is designed to provide a clear and professional representation of my skills, experience, and services. It features a clean, responsive layout with dedicated sections for personal information, technical expertise, projects, resume highlights, and contact details.  
+
+**Objective:** To establish a professional online presence, showcase my work effectively, and create an accessible platform for potential employers, collaborators, and clients to connect with me.  
+
 
 ---
 
